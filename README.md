@@ -25,7 +25,7 @@
 - 이미지 기반 기본 분석 기능 구현
 
 ## 프로젝트 수상
-![main](대상.png)
+![screenshot](대상.png)
 
 ## 🚀 향후 업데이트 계획
 - AWS Lambda + API Gateway 기반 서버 로직 개발
